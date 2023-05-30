@@ -1,0 +1,28 @@
+2009:name must be unique
+2031:iban must be unique
+2010:Invalid Name: Name is NULL
+2027:email must be unique
+2015:Invalid licenceNumber: licenceNumber is NULL
+2017:Invalid deliveryRange: deliveryRange is NULL
+2028:phone must be unique
+2036:car year Field is Null
+2019:Invalid phone: phone is NULL
+2018:Invalid driverBankRequestDto: driverBankRequestDto is NULL
+2022:city Field is Null
+2025:orderPoint Field is Null
+2033:account name cannot be null
+2020:Invalid email format
+2032:iban cannot be null
+2021:Invalid email: email is NULL
+2029:properties [name and id number and license number] must be unique
+2013:Invalid idNumber: idNumber is NULL
+2024:Car Field is Null
+2011:Invalid size for Name: Must be of 3 - 50 characters
+2026:deliveryPoint Field is Null
+2030:bankRefNo cannot be null
+2014:id number must be unique
+2034:car model ref number is NULL
+2035:Plate Number must be unique
+2016:licenceNumber must be unique
+2023:countryId Field is Null
+2012:Invalid nationality: nationality is NULL
